@@ -1,0 +1,69 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= Inicio da Simulação -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ESTRELA
+	Nome do Corpo: b, Massa: 60.0, Coordenada X inicial/final: 7.0/70.0, Coordenada Y inicial/final: 8.0/80.0, Coordenada Z inicial/final: 9.0/90.0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+PLANETA
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+LUA
+	Nome do Corpo: a, Massa: 50.0, Coordenada X inicial/final: 1.0/10.0, Coordenada Y inicial/final: 2.0/20.0, Coordenada Z inicial/final: 3.0/30.0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ASTEROIDE
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Calculos: 
+
+Média das distâncias: 5.195
+
+Média das massas: 55.0
+Desvio padrão das massas: 5.0
+
+Força gravitacional resultante: 
+Força gravitacional de b á a resulta em 1.8547337198627905e-09
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= Simulação 1 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ESTRELA
+	Nome do Corpo: b, Massa: 60.0, Coordenada X inicial/final: 38.5/70.0, Coordenada Y inicial/final: 44.0/80.0, Coordenada Z inicial/final: 49.5/90.0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+PLANETA
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+LUA
+	Nome do Corpo: a, Massa: 50.0, Coordenada X inicial/final: 5.5/10.0, Coordenada Y inicial/final: 11.0/20.0, Coordenada Z inicial/final: 16.5/30.0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ASTEROIDE
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Calculos: 
+
+Média das distâncias: 28.58
+
+Média das massas: 55.0
+Desvio padrão das massas: 5.0
+
+Força gravitacional resultante: 
+Força gravitacional de b á a resulta em 6.128133568326982e-11
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= Simulação 2 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ESTRELA
+	Nome do Corpo: b, Massa: 60.0, Coordenada X inicial/final: 70.0/70.0, Coordenada Y inicial/final: 80.0/80.0, Coordenada Z inicial/final: 90.0/90.0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+PLANETA
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+LUA
+	Nome do Corpo: a, Massa: 50.0, Coordenada X inicial/final: 10.0/10.0, Coordenada Y inicial/final: 20.0/20.0, Coordenada Z inicial/final: 30.0/30.0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ASTEROIDE
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Calculos: 
+
+Média das distâncias: 51.96
+
+Média das massas: 55.0
+Desvio padrão das massas: 5.0
+
+Força gravitacional resultante: 
+Força gravitacional de b á a resulta em 1.8540198802774205e-11
+
+
